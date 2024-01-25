@@ -50,6 +50,11 @@
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
 </div>
+<div align=center>
+	<br>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunu1101&layout=compact">
+	<img src="https://github-readme-stats.vercel.app/api?username=nunu1101&show_icons=true">
+</div>
  
  
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
