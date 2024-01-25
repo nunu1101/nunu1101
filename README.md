@@ -39,7 +39,7 @@
 	<img src="https://img.shields.io/badge/SVN-809CC9?style=flat&logo=Subversion&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
-<hr>
+<h2></h2>
 <div align=center>
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
