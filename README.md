@@ -1,5 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20nunu1101%20%20&height=200&fontSize=90&fontColor=ffffff)
-
+<div align=center>
+	<h2>Hello, I'm Soobin💙</h2>
+</div>
+<div align=center>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnunu1101&count_bg=%23272484&title_bg=%233073A6&icon=baidu.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
