@@ -40,6 +40,7 @@
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white">
+	<img src="https://img.shields.io/badge/jenkins-181717?style=flat&logo=jenkins&logoColor=white">
 </div>
 <h2></h2>
 <div align=center>
